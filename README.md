@@ -1,7 +1,7 @@
 ### Hi there, I'm Madhurendra Kumar - aka [Madhurendra1311][website] 👋
 
 
-- 🔭 I’m Full Stack Devloper ,Actively looking for new opportunities
+- 🔭 I’m MERN Stack Devloper ,Actively looking for new opportunities
 - 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 <br />
