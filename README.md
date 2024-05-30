@@ -1,9 +1,12 @@
 ### Hi there, I'm Madhurendra Kumar - aka [Madhurendra1311][website] 👋
 
-
-- 🔭 I’m MERN Stack Devloper ,Actively looking for new opportunities
-- 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👋 Hi, I’m Madhurendra
+- 👀 I’m interested in Web Development
+- 🔭 I’m MERN Stack Devloper, Actively looking for new opportunities
+- 🌱 I’m currently learning Next.JS, Progressive Web Application
+- 💞️ I’m looking to collaborate with talented developers on UI Tech Stack, React, Vue or anything that involves new things to learn.
+- 📫 Reach me out on kmadhu1311@gmail.com
+- https://madhurendra1311.github.io/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
 <br />
 ### Connect with me:
 
