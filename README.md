@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhurendra
 - 👀 I’m interested in Web Development
-- 🔭 I’m MERN Stack Devloper, Actively looking for new opportunities
+- 🔭 I’m MERN Stack Devloper
 - 🌱 I’m currently learning Next.JS, Progressive Web Application
 - 💞️ I’m looking to collaborate with talented developers on UI Tech Stack, React, Vue or anything that involves new things to learn.
 - 📫 Reach me out on kmadhu1311@gmail.com
@@ -26,7 +26,7 @@
 <br />
 <br />
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Madhurendra Github Stats</summary>
 
   <img align="left" alt="Madhurendra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Madhurendra1311&show_icons=true&hide_border=true" />
   
