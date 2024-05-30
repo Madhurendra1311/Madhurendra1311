@@ -1,5 +1,3 @@
-### Hi there, I'm Madhurendra Kumar - aka [Madhurendra1311][website] 👋
-
 - 👋 Hi, I’m Madhurendra
 - 👀 I’m interested in Web Development
 - 🔭 I’m MERN Stack Devloper, Actively looking for new opportunities
