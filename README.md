@@ -7,8 +7,7 @@
 - https://madhurendra1311.github.io/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
 <br />
 
-![Madhurendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhurendra1311&show_icons=true&theme=transparent)
-
+[![Madhurendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhurendra1311&show_icons=true&theme=transparent)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurendra1311&layout=donut-vertical&theme=transparent)](https://github.com/madhurendra1311/github-readme-stats)
 
 ### Connect with me:
