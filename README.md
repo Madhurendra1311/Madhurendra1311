@@ -6,6 +6,7 @@
 - 📫 Reach me out on kmadhu1311@gmail.com
 - https://madhurendra1311.github.io/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
 <br />
+![Madhurendra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhurendra1311&show_icons=true&theme=transparent)
 ### Connect with me:
 
 [<img align="left" alt="Madhurendra1311" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
