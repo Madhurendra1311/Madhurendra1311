@@ -18,7 +18,7 @@
 
 <hr/>
  
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+### ⚒️ Languages-Frameworks-Tools ⚒️
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
@@ -26,7 +26,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <br />
 ### Languages and Tools:
