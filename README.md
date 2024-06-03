@@ -7,15 +7,6 @@
 - https://madhurendra1311.github.io/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
 <br />
 
-![Madhurendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhurendra1311&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurendra1311&layout=donut-vertical&theme=transparent)](https://github.com/madhurendra1311/github-readme-stats)
-
-### Connect with me:
-
-[<img align="left" alt="Madhurendra1311" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Madhurendra1311 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Madhurendra1311 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <hr/>
  
 ### ⚒️ Languages-Frameworks-Tools ⚒️
@@ -26,6 +17,15 @@
 </div>
 
 <br/>
+
+![Madhurendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhurendra1311&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurendra1311&layout=donut-vertical&theme=transparent)](https://github.com/madhurendra1311/github-readme-stats)
+
+### Connect with me:
+
+[<img align="left" alt="Madhurendra1311" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Madhurendra1311 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Madhurendra1311 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 ### Languages and Tools:
