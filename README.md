@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhurendra
 - 👀 I’m interested in Web Development
-- 🔭 I’m MERN Stack Devloper
+- 🔭 I’m Full Stack Devloper
 - 🌱 I’m currently learning Next.JS, Progressive Web Application
 - 💞️ I’m looking to collaborate with talented developers on UI Tech Stack, React, Vue or anything that involves new things to learn.
 - 📫 Reach me out on kmadhu1311@gmail.com
