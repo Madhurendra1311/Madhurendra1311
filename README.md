@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Madhurendra
-- 👀 I’m interested in Web Development
-- 🔭 I’m Full Stack Developer
-- 🌱 I’m currently learning Next.JS, Progressive Web Application
-- 💞️ I’m looking to collaborate with talented developers on UI Tech Stack, React, Vue or anything that involves new things to learn.
-- 📫 Reach me out on kmadhu1311@gmail.com
-- https://madhurendra1311.github.io/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
+<h1 align="center">Hi, I'm Madhurendra 👋</h1> <p align="center"> Full-Stack Software Engineer building enterprise web apps and AI-powered interfaces · Bangalore, India </p> <p align="center"> <b>6 years across React/Node — now going deep on Agentic AI and conversational interfaces</b> </p> <p align="center"> <a href="https://madhurendra1311.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/madhurendra-kumar-54a21019b/">LinkedIn</a> · <a href="mailto:kmadhu1311@gmail.com">Email</a> </p>
 
 <div align="center"> 
   <a href="https://madhurendra1311.github.io/" target="_blank">
