@@ -77,22 +77,6 @@ I share more here: [Portfolio](https://madhurendra1311.github.io/) · [LinkedIn]
 
 </div>
 
-<div align="center">
-<sub>Building things end to end, one honest bug at a time.</sub>
-</div>
-
-<div align="center"> 
-  <a href="https://madhurendra1311.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-  <a href="https://www.linkedin.com/in/madhurendra-kumar-54a21019b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://leetcode.com/u/madhurendrakumar/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
- </div>
-
 <hr/>
  
 ### ⚒️ Languages-Frameworks-Tools ⚒️
