@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Madhurendra 👋</h1> <p align="center"> Full-Stack Software Engineer building enterprise web apps and AI-powered interfaces · Bangalore, India </p> <p align="center"> <b>Full-Stack Engineer across React & Node — now going deep on Agentic AI and conversational interfaces</b> </p>
 
+🛠️ Featured project
+
+Atithi — a full-stack, Airbnb-style homestay booking platform, co-built with a fellow engineer and live today, serving the Tripura region. Handles the full booking lifecycle end-to-end: listing discovery, host confirmation workflow, and payment verification via Razorpay — built on Next.js for the frontend and Spring Boot + PostgreSQL on the backend, with Firebase Auth handling user identity.
+
+Live demo · Source
+
+Next.js Spring Boot PostgreSQL Firebase Auth Razorpay
+
 <div align="center"> 
   <a href="https://madhurendra1311.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
