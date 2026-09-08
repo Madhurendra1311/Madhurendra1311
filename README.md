@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Madhurendra 👋</h1> <p align="center"> Full-Stack Software Engineer building enterprise web apps and AI-powered interfaces · Bangalore, India </p> <p align="center"> <b>6 years across React/Node — now going deep on Agentic AI and conversational interfaces</b> </p> <p align="center"> <a href="https://madhurendra1311.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/madhurendra-kumar-54a21019b/">LinkedIn</a> · <a href="mailto:kmadhu1311@gmail.com">Email</a> </p>
+<h1 align="center">Hi, I'm Madhurendra 👋</h1> <p align="center"> Full-Stack Software Engineer building enterprise web apps and AI-powered interfaces · Bangalore, India </p> <p align="center"> <b>Full-Stack Engineer across React & Node — now going deep on Agentic AI and conversational interfaces</b> </p> <p align="center"> <a href="https://madhurendra1311.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/madhurendra-kumar-54a21019b/">LinkedIn</a> · <a href="mailto:kmadhu1311@gmail.com">Email</a> </p>
 
 <div align="center"> 
   <a href="https://madhurendra1311.github.io/" target="_blank">
