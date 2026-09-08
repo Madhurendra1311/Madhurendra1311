@@ -77,10 +77,6 @@ I share more here: [Portfolio](https://madhurendra1311.github.io/) · [LinkedIn]
 
 </div>
 
-### 📫 Connect
-
-[madhurendra1311.github.io](https://madhurendra1311.github.io/) · [kmadhu1311@gmail.com](mailto:kmadhu1311@gmail.com)
-
 <div align="center">
 <sub>Building things end to end, one honest bug at a time.</sub>
 </div>
@@ -106,10 +102,3 @@ I share more here: [Portfolio](https://madhurendra1311.github.io/) · [LinkedIn]
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
-<br/>
-<hr>
-
-### ⚡ Stats ⚡
-
-![Madhurendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhurendra1311&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurendra1311&layout=donut-vertical&theme=transparent)](https://github.com/madhurendra1311/github-readme-stats)
