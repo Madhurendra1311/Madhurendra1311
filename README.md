@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+across+React+%26+Node.js;Shipped+an+AI-powered+conversational+UI+at+scale;Now+going+deep+on+Agentic+AI+and+RAG)](https://git.io/typing-svg)
 
-I share more here: [Portfolio](https://madhurendra1311.github.io/) · [LinkedIn](https://www.linkedin.com/in/madhurendra-kumar-54a21019b/)
+I share more here: [Portfolio](https://madhurendra1311.github.io/) · [LinkedIn](https://www.linkedin.com/in/madhurendra-kumar-54a21019b/) · [Leetcode](https://leetcode.com/u/madhurendrakumar/)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Madhurendra1311&style=flat-square&color=blue&label=Profile+views)](https://github.com/Madhurendra1311)
 [![GitHub followers](https://img.shields.io/github/followers/Madhurendra1311?style=flat-square&label=Followers&color=blue)](https://github.com/Madhurendra1311?tab=followers)
